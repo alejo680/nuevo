@@ -1,0 +1,33 @@
+/* estilo de etiquetas*/
+
+
+body {
+    background-color: aqua;
+}
+
+
+h2 {
+    /*asi es hace un comentario en css*/
+        color: chartreuse;
+}
+
+
+article h2 {
+    color: chocolate;
+}
+
+
+/* CLASS o CLASES <--- nos aconsejan usar este*/
+.borderRedondeados {
+    /*estilos*/
+    border-radius: 50%;
+}
+
+/* IDs */
+#uno {background-color: red;
+    /* estilos */   
+}
+#dos {
+    background-color: purple;
+    
+}
